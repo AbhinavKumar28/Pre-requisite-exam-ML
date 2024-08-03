@@ -1,1 +1,1 @@
-# Pre-requisite-exam-NLP
+# Pre-requisite-exam-ML
